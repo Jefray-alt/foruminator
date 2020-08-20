@@ -1,0 +1,11 @@
+.content {
+    position: absolute;
+    left: 150px;
+    top: 400px;
+}
+
+@media screen and (max-width: 1024px) {
+    .content {
+        left: 30px;
+    }
+}
